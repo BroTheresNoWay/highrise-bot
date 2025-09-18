@@ -171,3 +171,4 @@ if __name__ == "__main__":
     asyncio.run(
         Highrise(MyBot()).start(ROOM_ID, BOT_TOKEN)
     )
+    # redeploy trigger
