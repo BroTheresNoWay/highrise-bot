@@ -1,3 +1,2 @@
 highrise-bot-sdk==24.1.0
 aiohttp
-pendulum==3.0.0b1
